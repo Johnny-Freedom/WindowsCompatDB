@@ -10,23 +10,21 @@
 *Perfect*  - Works completely as intended 
 
 
-# Example Program
-
+# Example Program:
+<br /><br /><br /><br />
+See [Obsidian](ObsidianMD.md) for a real program
+<br /><br /><br /><br />
 
 # Joe Mama's Art Studio
-...
+## Frameworks
+DirectX11
+Electron; Chromium
+## Details
+It is a art program. It can do art.
 
-Details about the program
+## Website
+https://mamas.joe/paintstudio
 
-...
-
-where to download it
-
-...
-
-ETC
-
-...
 
 ## Tests
 
