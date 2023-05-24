@@ -12,6 +12,8 @@
 
 # Example Program
 
+
+# Joe Mama's Art Studio
 ...
 
 Details about the program
@@ -26,8 +28,6 @@ ETC
 
 ...
 
-# Art Program
-
 ## Tests
 
 |*i*  |Operating System   | Version   | Bits | Test Date      | Extenders      | Installs | Runs | WorkArounds/Patches | Rating     | Bugs                 | Tester        |
@@ -35,9 +35,9 @@ ETC
 |0    |Windows 7 SP1 x64  | v1.29.2   | x64  | May 23, 2023   | None           | No       | No   | None                | Unusable   |Wont Start            | Johnny-Freedom|
 
 ## Bugs
-### Occurs in Test(s) [0,...]
+#### Occurs in Test(s) [0,...]
 Details of the Bug...
 
 ## Work-arounds, patches, ET CETERA
-### Works in Test(s) [0,...]
+#### Works in Test(s) [0,...]
 Details of the patch...
