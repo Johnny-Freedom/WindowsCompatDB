@@ -14,7 +14,11 @@ Please, do not be whinny, no one wants to listen.
 
 You may add stuff in Issues tab aswell to bring it to light, but also add your testing results to the repo.
 
-Sincerly, *Johnny Freedom, Our Country's pride and joy.*
+<br /><br /><br /><br />
+
+Sincerly, 
+
+*Johnny Freedom, Our Country's pride and joy.*
 
 .
 
