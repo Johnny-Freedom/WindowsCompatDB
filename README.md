@@ -1,5 +1,5 @@
-# ExtendWin
-Wrappers, Extensions, and Modifications for Windows
+# Windows Compatabity Database
+Wrappers, Extensions, and Modifications for Windows and Programs
 
 .
 
