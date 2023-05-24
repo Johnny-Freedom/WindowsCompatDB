@@ -14,6 +14,9 @@ Please, do not be whinny, no one wants to listen.
 
 You may add stuff in Issues tab aswell to bring it to light, but also add your testing results to the repo.
 
+[PORTEDPROGRAMS QUICKLIST](PortedPrograms/_QuickList.md)
+[PATCHES&EXTENDERS LIST](Extenders&Patches/QuickList.md)
+
 <br /><br /><br /><br />
 
 Sincerly, 
