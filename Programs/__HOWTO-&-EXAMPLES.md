@@ -11,9 +11,18 @@
 
 
 # Example Program
-...
 
 ...
+
+Details about the program
+
+...
+
+where to download it
+
+...
+
+ETC
 
 ...
 
@@ -30,4 +39,5 @@
 Details of the Bug...
 
 ## Work-arounds, patches, ET CETERA
-### Occurs in Test(s) [0,...]
+### Works in Test(s) [0,...]
+Details of the patch...
