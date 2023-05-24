@@ -30,7 +30,7 @@ https://mamas.joe/paintstudio
 
 |*i*  |Operating System   | Version   | Bits | Test Date      | Extenders      | Installs | Runs | Runs w/ WorkArounds/Patches | Rating     | Bugs                 | Tester        |
 |-----|-------------------|-----------|------|----------------|----------------|----------|------|-----------------------------|------------|----------------------|---------------|
-|0    |Windows 7 SP1 x64  | v1.29.2   | x64  | May 23, 2023   | None           | No       | No   | None                        | Unusable   |Wont Start            | Johnny-Freedom|
+|0    |Windows 7 SP1 x64  | v1.29.2   | x64  | May 23, 2023   | VxKex v0.0.0.3 | No       | No   | None                        | Unusable   |Wont Start            | Johnny-Freedom|
 
 ## Bugs
 #### Occurs in Test(s) [0,...]
