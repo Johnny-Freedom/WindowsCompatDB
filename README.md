@@ -2,6 +2,8 @@
 Wrappers, Extensions, and Modifications for Windows and Programs
 
 .
+If you have something to add, just issue a Pull Request, or open an issue on it
+.
 
 This is to serve as a **centralization** of patching and compatability for windows, mainly focused on new programs on old windows, it *may* become if microsoft ever breaks something massivly in a release aswell, a database of patching newer systems to run older stuff aswell, but this is focused on older systems.
 
